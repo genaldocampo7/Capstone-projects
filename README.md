@@ -1,6 +1,6 @@
 ## Capstone 1 Ledger Accounting Application
  
-In this capstone project,I created a CLI Ledger Accounting Application. This application is able to track all financial transactions for business or personal use. All transactions were written and read through a csv file named “transactions” with the format of date|time|description|vendor|amount. to keep track of data in transactions, I created 3 classes: Homescreen, Ledger, and Reports. 
+In this capstone project, I created a CLI Ledger Accounting Application. This application is able to track all financial transactions for business or personal use. All transactions were written and read through a csv file named “transactions” with the format of date|time|description|vendor|amount. to keep track of data in transactions, I created 3 classes: Homescreen, Ledger, and Reports. 
 
 The Homescreen prompts the user to choose the following choices: make a deposit, make a payment, view Ledger, or Exit. 
 
